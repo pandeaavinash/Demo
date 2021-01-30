@@ -19,6 +19,8 @@ public class FacebookRegister
 		{
 System.out.ptint("");
 			System.out.ptint("");
+System.out.ptint("");
+			System.out.ptint("");
 			BrowserFactory browser = new BrowserFactory();
 			browser.setDriver("chrome");
 			ReportSetpDetails obj = new ReportSetpDetails();
